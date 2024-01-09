@@ -12,55 +12,55 @@ blueprint:
           domain: sensor
     button_one_short_press:
       name: Single Press - Button 1
-      description: Action to run on button 1 (lower-left) single press
+      description: Action to run on button 1 (left) single press
       default: []
       selector:
         action: {}
     button_one_double_press:
       name: Double Press - Button 1
-      description: Action to run on button 1 (lower-left) double press
+      description: Action to run on button 1 (left) double press
       default: []
       selector:
         action: {}
     button_one_long_press:
       name: Long Press - Button 1
-      description: Action to run on button 1 (lower-left) long press
+      description: Action to run on button 1 (left) long press
       default: []
       selector:
         action: {}
     button_two_short_press:
       name: Single Press - Button 2
-      description: Action to run on button 2 (lower-right) single press
+      description: Action to run on button 2 (middle) single press
       default: []
       selector:
         action: {}
     button_two_double_press:
       name: Double Press - Button 2
-      description: Action to run on button 2 (lower-right) double press
+      description: Action to run on button 2 (middle) double press
       default: []
       selector:
         action: {}
     button_two_long_press:
       name: Long Press - Button 2
-      description: Action to run on button 2 (lower-right) long press
+      description: Action to run on button 2 (middle) long press
       default: []
       selector:
         action: {}
     button_three_short_press:
       name: Single Press - Button 3
-      description: Action to run on button 3 (upper-right) single press
+      description: Action to run on button 3 (right) single press
       default: []
       selector:
         action: {}
     button_three_double_press:
       name: Double Press - Button 3
-      description: Action to run on button 3 (upper-right) double press
+      description: Action to run on button 3 (right) double press
       default: []
       selector:
         action: {}
     button_three_long_press:
       name: Long Press - Button 3
-      description: Action to run on button 3 (upper-right) long press
+      description: Action to run on button 3 (right) long press
       default: []
       selector:
         action: {}

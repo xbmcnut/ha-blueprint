@@ -1,6 +1,6 @@
 blueprint:
   name: Zigbee2MQTT - Tuya 3-Button Scene Switch
-  description: Automate your Tuya 3-Button Scene Switch via Zigbee2MQTT.
+  description: Automate your Tuya 3-Button Scene Switch (TS0043) via Zigbee2MQTT.
   domain: automation
   input:
     switch:
